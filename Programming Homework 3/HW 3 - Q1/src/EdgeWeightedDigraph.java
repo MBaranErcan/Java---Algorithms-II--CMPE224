@@ -1,7 +1,7 @@
 //-----------------------------------------------------
 // Title: EdgeWeightedDigraph class
-// Author: Mustafa Baran Ercan
-// ID: 28810555206
+// Author: Mustafa Baran Ercan, Bedir Esen
+// ID: 28810555206, 15203509106
 // Section: 1
 // Assignment: 3
 // Description: This class implements an Edge Weighted Digraph algorithm.
